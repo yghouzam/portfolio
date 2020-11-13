@@ -6,6 +6,6 @@ seaborn==0.8.1
 wordcloud==1.6.0
 spacy==2.2.3
 nltk==3.4.5
-tensorflow-gpu==1.15.0
+tensorflow-gpu==2.3.1
 keras==2.2.5
 tensorflow_hub==0.7.0
